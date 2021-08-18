@@ -1,0 +1,15 @@
+{
+  "name": "stdlib",
+  "version": "1.0.0",
+  "description": "Standard Library for Narro",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
